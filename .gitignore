@@ -8,3 +8,5 @@ _build/
 
 # Dependencies
 odoo
+
+venv/
