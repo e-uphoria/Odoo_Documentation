@@ -10,4 +10,5 @@ Odoo Documentation
     applications
     administration
     developer
+    examples/coffee_chain_erp/index
     contributing
